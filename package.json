@@ -1,0 +1,23 @@
+{
+  "name": "test_bot",
+  "version": "1.0.0",
+  "description": "Build a bot in Node.js on Microsoft Bot Framework.\r Initial try towards git as well as MS Bot framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/troublehacker/Test_Bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/troublehacker/Test_Bot/issues"
+  },
+  "homepage": "https://github.com/troublehacker/Test_Bot#readme",
+  "dependencies": {
+    "botbuilder": "^3.12.0",
+    "restify": "^6.3.4"
+  }
+}
