@@ -1,4 +1,4 @@
-// Add your requirements
+// Add requirements
 var restify = require('restify'); 
 var builder = require('botbuilder'); 
 
